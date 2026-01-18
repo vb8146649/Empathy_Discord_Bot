@@ -50,7 +50,7 @@ graph TD;
 
 ## **🎥 Demo**
 
-*(Add your YouTube/Devpost video link here)*
+[Demo Video](https://youtu.be/FEX8mCSX4no)
 
 ## **🛠️ Tech Stack**
 
