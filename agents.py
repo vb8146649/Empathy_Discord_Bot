@@ -29,7 +29,7 @@ class EmpathySystem:
         """
         prompt = f"""
         Analyze the following text for toxicity, aggression, or passive-aggressiveness.
-        Output ONLY a JSON string (no markdown) with keys: "score" (0.0 to 1.0), "reason" (short string), "is_toxic" (boolean, true if score > 0.7).
+        Output ONLY a JSON string (no markdown) with keys: "score" (0.0 to 1.0), "reason" (short string), "is_toxic" (boolean, true if score > 0.9).
         
         Text: "{text}"
         """
